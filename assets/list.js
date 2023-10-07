@@ -3,7 +3,7 @@
  * Main
  */
 const main = () => {
-    const jsonUrl = 'dictionary.json'
+    const jsonUrl = 'nepalbhasa.io/dictionary.json'
     fetch(jsonUrl)
         .then(response => {
             if (response.ok) {
