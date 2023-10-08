@@ -348,6 +348,12 @@
         "Nepali": "\u092a\u0940\u0924\u0932"
     },
     {
+        "English": "carpet",
+        "German": "teppich",
+        "NepalBhasa": "\u0917\u0932\u0907\u0901\u091a\u093e",
+        "Nepali": "\u0917\u0932\u0948\u0902\u091a\u093e"
+    },
+    {
         "English": "cat",
         "German": "Hauskatze",
         "NepalBhasa": "\u092d\u094c",
@@ -364,6 +370,24 @@
         "German": "holzkohle",
         "NepalBhasa": "\u0939\u0947\u0902\u0917\u094d\u0935\u093e",
         "Nepali": "\u0915\u094b\u0907\u0932\u093e"
+    },
+    {
+        "English": "chataamari",
+        "German": "-",
+        "NepalBhasa": "\u091a\u0924\u093e\u0902\u092e\u0930\u093f",
+        "Nepali": "\u091a\u0924\u093e\u0902\u092e\u0930\u093f"
+    },
+    {
+        "English": "chew",
+        "German": "kauen",
+        "NepalBhasa": "\u0928\u094d\u0939\u0947\u092f\u0947",
+        "Nepali": "\u091a\u092a\u093e\u0909\u0928\u0941"
+    },
+    {
+        "English": "chicken",
+        "German": "huhn",
+        "NepalBhasa": "\u0916\u093e",
+        "Nepali": "\u0915\u0941\u0916\u0941\u0930\u093e"
     },
     {
         "English": "cotton",
@@ -414,10 +438,28 @@
         "Nepali": "\u0930\u0941\u092e\u093e\u0932"
     },
     {
+        "English": "house",
+        "German": "haus",
+        "NepalBhasa": "\u091b\u0947\u0901",
+        "Nepali": "\u0918\u0930"
+    },
+    {
         "English": "hundred",
         "German": "hundert",
         "NepalBhasa": "\u0938\u091b\u093f",
         "Nepali": "\u0938\u092f"
+    },
+    {
+        "English": "insect",
+        "German": "insekt",
+        "NepalBhasa": "\u0915\u0940",
+        "Nepali": "\u0915\u0940\u0930\u093e"
+    },
+    {
+        "English": "knot",
+        "German": "knot",
+        "NepalBhasa": "\u0917\u0925\u0903",
+        "Nepali": "\u0917\u093e\u0901\u0920\u094b"
     },
     {
         "English": "letter",
@@ -432,10 +474,22 @@
         "Nepali": "\u092a\u094d\u0930\u0947\u092e"
     },
     {
+        "English": "marijuana",
+        "German": "marihuana",
+        "NepalBhasa": "\u0917\u091c\u093f",
+        "Nepali": "\u0917\u093e\u0901\u091c\u093e"
+    },
+    {
         "English": "mattress",
         "German": "Matratze",
         "NepalBhasa": "\u0932\u093e\u0938\u093e",
         "Nepali": "\u0921\u0938\u0928\u093e"
+    },
+    {
+        "English": "medicine",
+        "German": "medizin",
+        "NepalBhasa": "\u0935\u093e\u0938\u0903",
+        "Nepali": "\u0914\u0937\u0927\u0940"
     },
     {
         "English": "memorably",
@@ -454,6 +508,12 @@
         "German": "N\u00e4her",
         "NepalBhasa": "\u0932\u093f\u0915\u094d\u200d\u0915",
         "Nepali": "\u0928\u091c\u093f\u0915"
+    },
+    {
+        "English": "opposite",
+        "German": "gegenteil",
+        "NepalBhasa": "\u0905\u0903\u0916\u0903",
+        "Nepali": "\u0935\u093f\u092a\u0930\u0940\u0924"
     },
     {
         "English": "order",
@@ -490,6 +550,12 @@
         "German": "schnell",
         "NepalBhasa": "\u0915\u093e\u091a\u093e\u0915\u093e\u091a\u093e",
         "Nepali": "\u091b\u093f\u091f\u094b"
+    },
+    {
+        "English": "request",
+        "German": "anfrage",
+        "NepalBhasa": "\u0907\u0928\u093e\u092a",
+        "Nepali": "\u0905\u0928\u0941\u0930\u094b\u0927"
     },
     {
         "English": "shameless",
@@ -568,6 +634,12 @@
         "German": "warm",
         "NepalBhasa": "\u0932\u0941\u092e\u0941",
         "Nepali": "\u0928\u094d\u092f\u093e\u0928\u094b"
+    },
+    {
+        "English": "warning",
+        "German": "warnung",
+        "NepalBhasa": "\u0928\u094d\u0939\u0947\u0938\u0941\u091a\u0902",
+        "Nepali": "\u091a\u0947\u0924\u093e\u0935\u0928\u0940"
     },
     {
         "English": "wasp",

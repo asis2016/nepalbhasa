@@ -1,15 +1,18 @@
 import csv
 import json
 
-# Function to convert CSV to JSON
+
 def csv_to_json(csv_file, json_file, lang_key):
+    """
+    Function to convert CSV to JSON.
+    """
     data = []
     with open(csv_file, 'r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
         for row in csv_reader:
             data.append(row)
     
-    # Sort the data list of dictionaries by the 'german' key
+    # Sort the data list of dictionaries by the `lang_key`
     sorted_data = sorted(data, key=lambda x: x[lang_key])
 
     with open(json_file, 'w') as json_file:
