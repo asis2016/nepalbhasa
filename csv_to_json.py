@@ -13,6 +13,8 @@ def csv_to_json(csv_file, json_file, lang_key):
             data.append(row)
     
     # Sort the data list of dictionaries by the `lang_key`
+    for item in data:
+        item[lang_key] = item[lang_key].lower()
     sorted_data = sorted(data, key=lambda x: x[lang_key])
 
     with open(json_file, 'w') as json_file:
