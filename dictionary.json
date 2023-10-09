@@ -204,6 +204,12 @@
         "Nepali": "\u091b\u094b\u0930\u0940"
     },
     {
+        "English": "decade",
+        "German": "Jahrzehnt",
+        "NepalBhasa": "\u091c\u0941\u0917",
+        "Nepali": "\u0926\u0936\u0915"
+    },
+    {
         "English": "diabetes mellitus",
         "German": "Diabetes mellitus",
         "NepalBhasa": "\u092e\u0927\u0941\u092e\u0947\u0939",
@@ -240,16 +246,34 @@
         "Nepali": "\u092e\u0939\u094b\u0924\u094d\u0938\u0935"
     },
     {
+        "English": "fight",
+        "German": "k\u00e4mpfen",
+        "NepalBhasa": "\u0932\u094d\u0935\u093e\u092a\u0941",
+        "Nepali": "\u091d\u0917\u0921\u093e"
+    },
+    {
         "English": "fire",
         "German": "Feuer",
         "NepalBhasa": "\u092e\u093f\u0901",
         "Nepali": "\u0906\u0917\u094b"
     },
     {
+        "English": "flag",
+        "German": "Flagge",
+        "NepalBhasa": "\u0927\u094d\u200d\u0935\u093e\u0901\u092f\u094d",
+        "Nepali": "\u091d\u0923\u094d\u0921\u093e"
+    },
+    {
         "English": "flood",
         "German": "Hochwasser",
         "NepalBhasa": "\u0916\u0941\u0938\u093f \u092c\u093e\u0939\u093e",
         "Nepali": "\u092c\u093e\u0922\u0940"
+    },
+    {
+        "English": "gambling",
+        "German": "Gl\u00fccksspiel",
+        "NepalBhasa": "\u091c\u0942",
+        "Nepali": "\u091c\u0941\u0935\u093e"
     },
     {
         "English": "ginger",
@@ -432,6 +456,12 @@
         "Nepali": "\u092e\u0926\u0930\u092c\u094b\u0930\u094d\u0921"
     },
     {
+        "English": "moustache",
+        "German": "Schnurrbart",
+        "NepalBhasa": "\u0917\u094d\u0935\u093e\u092f\u094d",
+        "Nepali": "\u091c\u0941\u0901\u0917\u093e"
+    },
+    {
         "English": "nearer",
         "German": "N\u00e4her",
         "NepalBhasa": "\u0932\u093f\u0915\u094d\u200d\u0915",
@@ -460,6 +490,12 @@
         "German": "Original",
         "NepalBhasa": "\u0938\u0915\u0932",
         "Nepali": "\u0938\u0915\u0932"
+    },
+    {
+        "English": "pair",
+        "German": "Paar",
+        "NepalBhasa": "\u091b\u094d\u091c\u094d\u0935\u0903",
+        "Nepali": "\u091c\u094b\u0921\u0940"
     },
     {
         "English": "paper",
@@ -522,10 +558,22 @@
         "Nepali": "\u0905\u0928\u0941\u0930\u094b\u0927"
     },
     {
+        "English": "root",
+        "German": "Wurzel",
+        "NepalBhasa": "\u0939\u093e",
+        "Nepali": "\u091c\u0930\u093e"
+    },
+    {
         "English": "rope",
         "German": "Seil",
         "NepalBhasa": "\u0916\u093f\u092a\u0903",
         "Nepali": "\u0921\u094b\u0930\u0940"
+    },
+    {
+        "English": "scale",
+        "German": "Waage (z.B. Balkenwaage)",
+        "NepalBhasa": "\u0924\u093e\u0932\u094d\u091c\u0941",
+        "Nepali": "\u0924\u0930\u093e\u091c\u0941"
     },
     {
         "English": "shameless",
@@ -546,10 +594,22 @@
         "Nepali": "-"
     },
     {
+        "English": "sight",
+        "German": "Ansicht",
+        "NepalBhasa": "\u0932\u0941",
+        "Nepali": "\u0926\u0943\u0936\u094d\u092f"
+    },
+    {
         "English": "silver",
         "German": "Silber",
         "NepalBhasa": "\u0935\u0939:",
         "Nepali": "\u091a\u093e\u0901\u0926\u0940"
+    },
+    {
+        "English": "sister",
+        "German": "Schwester",
+        "NepalBhasa": "\u0924\u0924\u093e",
+        "Nepali": "\u0926\u093f\u0926\u0940"
     },
     {
         "English": "smoke",
