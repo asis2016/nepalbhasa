@@ -45,10 +45,10 @@ const accordionContainer = (data) => {
                     <!-- Nepal Bhasa -->
                     <div class='d-flex pt-2'>
                         <span class='me-3'>
-                            <img src='assets/images/newa.png' alt='' width='25' height='25'>
+
                         </span>
                         <p>
-                            ${item['English']}
+                            ${capitalizeFirstLetter(item['English'])}
                         </p>
                     </div>
                     <!-- Nepali -->
@@ -66,7 +66,7 @@ const accordionContainer = (data) => {
                             <img src='assets/images/de.png' alt='' width='25' height='25'>
                         </span>
                         <p>
-                            ${item['German']}
+                            ${capitalizeFirstLetter(item['German'])}
                         </p>
                     </div>
                 </div>
