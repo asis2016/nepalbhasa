@@ -66,7 +66,7 @@ const accordionContainer = (data) => {
                             <img src='assets/images/de.png' alt='' width='25' height='25'>
                         </span>
                         <p>
-                            ${capitalizeFirstLetter(item['German'])}
+                            ${item['German']}
                         </p>
                     </div>
                 </div>
