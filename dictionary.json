@@ -51,7 +51,7 @@
         "English": "bell",
         "German": "Glocke",
         "NepalBhasa": "\u0917\u0902",
-        "Nepali": "Bell"
+        "Nepali": "\u0918\u0923\u094d\u091f\u0940"
     },
     {
         "English": "bhaktapur",
@@ -82,6 +82,12 @@
         "German": "blut",
         "NepalBhasa": "\u0939\u093f",
         "Nepali": "\u0930\u0917\u0924"
+    },
+    {
+        "English": "blue",
+        "German": "blau",
+        "NepalBhasa": "\u0935\u0901\u091a\u0941",
+        "Nepali": "\u0928\u0940\u0932\u094b"
     },
     {
         "English": "body",
@@ -180,6 +186,12 @@
         "Nepali": "\u0915\u092e\u0947\u0921\u0940"
     },
     {
+        "English": "constantly",
+        "German": "st\u00e4ndig",
+        "NepalBhasa": "\u092e\u0926\u093f\u0915",
+        "Nepali": "\u0928\u093f\u0930\u0928\u094d\u0924\u0930"
+    },
+    {
         "English": "cooked rice",
         "German": "Gekochter Reis",
         "NepalBhasa": "\u092d\u0941\u091c\u093e",
@@ -210,6 +222,12 @@
         "Nepali": "\u0926\u0936\u0915"
     },
     {
+        "English": "decision",
+        "German": "Entscheidung",
+        "NepalBhasa": "\u0909\u0939\u0903",
+        "Nepali": "\u0928\u093f\u0930\u094d\u0923\u092f"
+    },
+    {
         "English": "diabetes mellitus",
         "German": "Diabetes mellitus",
         "NepalBhasa": "\u092e\u0927\u0941\u092e\u0947\u0939",
@@ -226,6 +244,12 @@
         "German": "Hund",
         "NepalBhasa": "\u0916\u093f\u091a\u093e",
         "Nepali": "\u0915\u0941\u0915\u0941\u0930"
+    },
+    {
+        "English": "drama",
+        "German": "Drama",
+        "NepalBhasa": "\u092a\u094d\u092f\u093e\u0916\u0903",
+        "Nepali": "\u0928\u093e\u091f\u0915"
     },
     {
         "English": "egg",
@@ -268,6 +292,12 @@
         "German": "Hochwasser",
         "NepalBhasa": "\u0916\u0941\u0938\u093f \u092c\u093e\u0939\u093e",
         "Nepali": "\u092c\u093e\u0922\u0940"
+    },
+    {
+        "English": "free of charge",
+        "German": "kostenlos",
+        "NepalBhasa": "\u0938\u093f\u0924\u093f\u0915\u0902",
+        "Nepali": "\u0928\u093f\u0936\u0941\u0932\u094d\u0915"
     },
     {
         "English": "gambling",
@@ -406,6 +436,12 @@
         "German": "m\u00e4nnliches",
         "NepalBhasa": "\u092e\u093f\u091c\u0902",
         "Nepali": "\u092e\u093e\u0928\u094d\u091b\u0947"
+    },
+    {
+        "English": "map",
+        "German": "Karte",
+        "NepalBhasa": "\u0928\u0915\u094d\u0938\u093e",
+        "Nepali": "\u0928\u0915\u094d\u0938\u093e"
     },
     {
         "English": "marijuana",
@@ -552,10 +588,22 @@
         "Nepali": "\u0928\u0938\u094d\u0932\u0935\u093e\u0926"
     },
     {
+        "English": "regret",
+        "German": "bedauern",
+        "NepalBhasa": "\u092a\u0938\u094d\u0924\u093e\u092f\u094d",
+        "Nepali": "\u092a\u0936\u094d\u091a\u093e\u0924\u093e\u092a"
+    },
+    {
         "English": "request",
         "German": "anfrage",
         "NepalBhasa": "\u0907\u0928\u093e\u092a",
         "Nepali": "\u0905\u0928\u0941\u0930\u094b\u0927"
+    },
+    {
+        "English": "river",
+        "German": "Fluss",
+        "NepalBhasa": "\u0916\u0941\u0938\u093f",
+        "Nepali": "\u0928\u0926\u0940"
     },
     {
         "English": "root",
@@ -568,6 +616,12 @@
         "German": "Seil",
         "NepalBhasa": "\u0916\u093f\u092a\u0903",
         "Nepali": "\u0921\u094b\u0930\u0940"
+    },
+    {
+        "English": "salty",
+        "German": "salzig",
+        "NepalBhasa": "\u091a\u093f\u0932\u0942",
+        "Nepali": "\u0928\u0941\u0928\u093f\u0932\u094b"
     },
     {
         "English": "scale",
@@ -628,6 +682,12 @@
         "German": "entsprechend",
         "NepalBhasa": "\u0932\u094d\u200d\u0935\u092f\u094d\u200c\u0915",
         "Nepali": "\u0938\u0941\u0939\u093e\u0909\u0928\u0947 \u0917\u0930\u0940"
+    },
+    {
+        "English": "sure",
+        "German": "sicher",
+        "NepalBhasa": "\u092a\u0915\u094d\u0915\u093e",
+        "Nepali": "\u0928\u093f\u0936\u094d\u091a\u093f\u0924"
     },
     {
         "English": "tease",
