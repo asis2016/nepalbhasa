@@ -5,10 +5,10 @@ import json
 lang_key = 'English'
 csv_file_path = './assets/dictionary/dictionary.csv'
 json_file = './assets/dictionary/dictionary.json'
-json_minified_en = '../assets/dictionary/dictionary.en.minified.json'
-json_minified_nb = '../assets/dictionary/dictionary.nb.minified.json'
-json_minified_np = '../assets/dictionary/dictionary.np.minified.json'
-json_minified_de = '../assets/dictionary/dictionary.de.minified.json'
+json_minified_en = './assets/dictionary/dictionary.en.minified.json'
+json_minified_nb = './assets/dictionary/dictionary.nb.minified.json'
+json_minified_np = './assets/dictionary/dictionary.np.minified.json'
+json_minified_de = './assets/dictionary/dictionary.de.minified.json'
 
 
 def main():
