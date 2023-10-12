@@ -12,6 +12,12 @@
         "Nepali": "\u090f\u0915 \u0935\u0930\u094d\u0937"
     },
     {
+        "English": "alcohol",
+        "German": "Alkohol",
+        "NepalBhasa": "\u0930\u0915\u094d\u0938\u0940 ",
+        "Nepali": "\u0905\u092f\u094d\u200c\u0932\u093e"
+    },
+    {
         "English": "along with",
         "German": "gemeinsam mit",
         "NepalBhasa": "\u0932\u093f\u0938\u0947",
@@ -246,6 +252,12 @@
         "Nepali": "\u0936\u092c\u094d\u0926\u0915\u094b\u0936"
     },
     {
+        "English": "discrimination",
+        "German": "Diskriminierung",
+        "NepalBhasa": "\u092d\u0947\u0926\u092d\u093e\u0935",
+        "Nepali": "\u092a\u093e\u0938\u0941"
+    },
+    {
         "English": "dog",
         "German": "Hund",
         "NepalBhasa": "\u0916\u093f\u091a\u093e",
@@ -270,10 +282,22 @@
         "Nepali": "\u0939\u093e\u0924\u094d\u0924\u0940"
     },
     {
+        "English": "expensive",
+        "German": "teuer",
+        "NepalBhasa": "\u092e\u0939\u0901\u0917\u094b ",
+        "Nepali": "\u0925\u093f\u0915\u092f\u094d"
+    },
+    {
         "English": "fate",
         "German": "Schicksal",
         "NepalBhasa": "\u092d\u093e\u0917\u0947",
         "Nepali": "\u092d\u093e\u0917\u094d\u092f "
+    },
+    {
+        "English": "feast",
+        "German": "Festmahl",
+        "NepalBhasa": "\u092d\u094b\u091c ",
+        "Nepali": "\u092d\u094d\u200d\u0935\u092f\u094d"
     },
     {
         "English": "festival",
@@ -316,6 +340,12 @@
         "German": "Gl\u00fccksspiel",
         "NepalBhasa": "\u091c\u0942",
         "Nepali": "\u091c\u0941\u0935\u093e"
+    },
+    {
+        "English": "get angry",
+        "German": "w\u00fctend werden",
+        "NepalBhasa": "\u0930\u093f\u0938\u093e\u0909\u0928\u0941 ",
+        "Nepali": "\u0924\u0902\u091a\u093e\u092f\u0947"
     },
     {
         "English": "ginger",
@@ -432,6 +462,12 @@
         "Nepali": "\u092d\u093f\u0924\u094d\u0930 "
     },
     {
+        "English": "just",
+        "German": "nur",
+        "NepalBhasa": "\u092e\u093e\u0924\u094d\u0930 ",
+        "Nepali": "\u091c\u0915"
+    },
+    {
         "English": "knot",
         "German": "knot",
         "NepalBhasa": "\u0917\u0925\u0903",
@@ -490,6 +526,12 @@
         "German": "Matratze",
         "NepalBhasa": "\u0932\u093e\u0938\u093e",
         "Nepali": "\u0921\u0938\u0928\u093e"
+    },
+    {
+        "English": "meat",
+        "German": "Fleisch",
+        "NepalBhasa": "\u092e\u093e\u0938\u0941 ",
+        "Nepali": "\u0932\u093e"
     },
     {
         "English": "medicine",
@@ -714,6 +756,18 @@
         "Nepali": "\u0927\u0941\u0935\u093e\u0901"
     },
     {
+        "English": "sociable",
+        "German": "gesellig",
+        "NepalBhasa": "\u092e\u093f\u0932\u0928\u0938\u093e\u0930 ",
+        "Nepali": "\u0939\u0928\u0947\u092a\u0941"
+    },
+    {
+        "English": "soil",
+        "German": "Boden",
+        "NepalBhasa": "\u092e\u093e\u091f\u094b ",
+        "Nepali": "\u091a\u093e"
+    },
+    {
         "English": "stain / contamination",
         "German": "Verunreinigung",
         "NepalBhasa": "\u092d\u094d\u092f\u093e",
@@ -778,6 +832,12 @@
         "German": "Regenschirm",
         "NepalBhasa": "\u0915\u0941\u0938\u093e",
         "Nepali": "\u091b\u093e\u0924\u093e"
+    },
+    {
+        "English": "uncle",
+        "German": "Onkel",
+        "NepalBhasa": "\u092e\u093e\u092e\u093e ",
+        "Nepali": "\u092a\u093e\u091c\u0941"
     },
     {
         "English": "unripe",
