@@ -18,6 +18,12 @@
         "Nepali": "\u0930\u0915\u094d\u0938\u0940 "
     },
     {
+        "English": "all",
+        "german": "alle",
+        "NepalBhasa": "\u0938\u0915\u0932\u0947\u0902",
+        "Nepali": "\u0938\u092e\u0938\u094d\u0924 "
+    },
+    {
         "English": "along with",
         "german": "gemeinsam mit",
         "NepalBhasa": "\u0932\u093f\u0938\u0947",
@@ -168,6 +174,12 @@
         "Nepali": "\u091a\u0924\u093e\u0902\u092e\u0930\u093f"
     },
     {
+        "English": "cheap",
+        "german": "billig",
+        "NepalBhasa": "\u0926\u0902",
+        "Nepali": "\u0938\u0938\u094d\u0924\u094b "
+    },
+    {
         "English": "chew",
         "german": "kauen",
         "NepalBhasa": "\u0928\u094d\u0939\u0947\u092f\u0947",
@@ -220,6 +232,12 @@
         "german": "weinen",
         "NepalBhasa": "\u0916\u094d\u092f\u092f\u0947",
         "Nepali": "\u0930\u0941\u0928\u0941 "
+    },
+    {
+        "English": "culture",
+        "german": "Kultur",
+        "NepalBhasa": "\u0924\u091c\u093f",
+        "Nepali": "\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f "
     },
     {
         "English": "darkness",
@@ -492,6 +510,12 @@
         "Nepali": "\u092e\u093e\u0924\u094d\u0930 "
     },
     {
+        "English": "keys",
+        "german": "Schl\u00fcssel",
+        "NepalBhasa": "\u0924\u093e\u0903\u091a\u093e\u0903",
+        "Nepali": "\u0938\u093e\u0901\u091a\u094b "
+    },
+    {
         "English": "knot",
         "german": "knot",
         "NepalBhasa": "\u0917\u0925\u0903",
@@ -582,6 +606,12 @@
         "Nepali": "\u092d\u093f\u0915\u094d\u0937\u0941"
     },
     {
+        "English": "mother in law",
+        "german": "Schwiegermutter",
+        "NepalBhasa": "\u092e\u093e\u091c\u0941",
+        "Nepali": "\u0938\u093e\u0938\u0941 "
+    },
+    {
         "English": "motherboard",
         "german": "Hauptplatine",
         "NepalBhasa": "\u092e\u0926\u0930\u092c\u094b\u0930\u094d\u0921",
@@ -592,6 +622,12 @@
         "german": "Schnurrbart",
         "NepalBhasa": "\u0917\u094d\u0935\u093e\u092f\u094d",
         "Nepali": "\u091c\u0941\u0901\u0917\u093e"
+    },
+    {
+        "English": "ms",
+        "german": "fr\u00e4ulein / frau",
+        "NepalBhasa": "\u092e\u092f\u094d\u200c\u091c\u0941",
+        "Nepali": "\u0938\u0941\u0936\u094d\u0930\u0940 "
     },
     {
         "English": "nearer",
@@ -738,6 +774,12 @@
         "Nepali": "\u0928\u0941\u0928\u093f\u0932\u094b"
     },
     {
+        "English": "satisfaction",
+        "german": "Zufriedenheit",
+        "NepalBhasa": "\u0932\u0941\u0927\u0928\u094d\u0924\u093f",
+        "Nepali": "\u0938\u0928\u094d\u0924\u094b\u0937 "
+    },
+    {
         "English": "scale",
         "german": "Waage (z.B. Balkenwaage)",
         "NepalBhasa": "\u0924\u093e\u0932\u094d\u091c\u0941",
@@ -828,6 +870,12 @@
         "Nepali": "\u0928\u093f\u0936\u094d\u091a\u093f\u0924"
     },
     {
+        "English": "taste",
+        "german": "Geschmack",
+        "NepalBhasa": "\u0938\u0935\u093e",
+        "Nepali": "\u0938\u094d\u0935\u093e\u0926 "
+    },
+    {
         "English": "tease",
         "german": "Necken",
         "NepalBhasa": "\u0939\u093e\u092f\u094d\u200c\u0915\u0947",
@@ -838,6 +886,12 @@
         "german": "Teleskop",
         "NepalBhasa": "\u0932\u0941\u0938\u093e\u0903",
         "Nepali": "\u091f\u0947\u0932\u093f\u0938\u094d\u0915\u094b\u092a"
+    },
+    {
+        "English": "the most",
+        "german": "die meisten",
+        "NepalBhasa": "\u0926\u0915\u0932\u092f\u094d",
+        "Nepali": "\u0938\u092c\u092d\u0928\u094d\u0926\u093e "
     },
     {
         "English": "they",
