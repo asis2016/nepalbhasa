@@ -1,3 +1,5 @@
+__author__ = 'amaharjan.de'
+
 import csv
 import json
 

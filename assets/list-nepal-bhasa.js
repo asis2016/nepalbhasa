@@ -2,9 +2,11 @@
 /*
  * Main
  */
+const BASEURL = 'https://asis2016.github.io/nepalbhasa.io/assets/dictionary/dictionary.nb.minified.json'
+
+
 const main = () => {
-    const jsonUrl = 'https://asis2016.github.io/nepalbhasa.io/assets/dictionary/dictionary.nb.minified.json'
-    fetch(jsonUrl)
+    fetch(BASEURL)
         .then(response => {
             if (response.ok) {
                 return response.json()
@@ -13,7 +15,6 @@ const main = () => {
             }
         })
         .then(data => {
-            console.log(data)
             accordionContainer(data)
         })
         .catch(error => {
@@ -21,9 +22,9 @@ const main = () => {
         })
 }
 
+
 /*
  * Accordion container for displaying JSON data.
- *
  */
 const accordionContainer = (data) => {
     const container = document.getElementById('accordionFlushMain');
@@ -82,7 +83,7 @@ const accordionContainer = (data) => {
 /*
  * Capitalize the first letter of the word
  */
-function capitalizeFirstLetter(word) {
+const capitalizeFirstLetter = (word) => {
     if (word.length === 0) {
         return word;
     }
