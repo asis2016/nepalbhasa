@@ -13,6 +13,7 @@ const main = () => {
             }
         })
         .then(data => {
+            console.log(data)
             accordionContainer(data)
         })
         .catch(error => {
@@ -28,8 +29,8 @@ const accordionContainer = (data) => {
     const container = document.getElementById('accordionFlushMain');
 
     for (let i = 0; i < data.length; i++) {
-        const item = data[i];
-        const div = document.createElement('div');
+        let item = data[i];
+        let div = document.createElement('div');
         div.className = 'accordion-item'
 
         // inner HTML
@@ -66,7 +67,8 @@ const accordionContainer = (data) => {
                             <img src='assets/images/de.png' alt='' width='25' height='25'>
                         </span>
                         <p>
-                            ${capitalizeFirstLetter(item['German'])}
+                            
+                            ${item['German']}
                         </p>
                     </div>
                 </div>
