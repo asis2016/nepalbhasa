@@ -19,7 +19,7 @@
     },
     {
         "English": "all",
-        "German": "alle",
+        "German": "Alle",
         "NepalBhasa": "\u0938\u0915\u0932\u0947\u0902",
         "Nepali": "\u0938\u092e\u0938\u094d\u0924 "
     },
@@ -276,6 +276,12 @@
         "Nepali": "\u0936\u092c\u094d\u0926\u0915\u094b\u0936"
     },
     {
+        "English": "difficult",
+        "German": "Schwierig",
+        "NepalBhasa": "\u0925\u093e\u0915\u0941",
+        "Nepali": "\u0917\u093e\u0939\u094d\u0930\u094b"
+    },
+    {
         "English": "discrimination",
         "German": "Diskriminierung",
         "NepalBhasa": "\u092a\u093e\u0938\u0941",
@@ -292,6 +298,12 @@
         "German": "Drama",
         "NepalBhasa": "\u092a\u094d\u092f\u093e\u0916\u0903",
         "Nepali": "\u0928\u093e\u091f\u0915"
+    },
+    {
+        "English": "duty",
+        "German": "Dienst",
+        "NepalBhasa": "\u091c\u094d\u092f\u093e",
+        "Nepali": "\u0915\u0930\u094d\u0924\u0935\u094d\u092f"
     },
     {
         "English": "egg",
@@ -312,6 +324,18 @@
         "Nepali": "\u092e\u0939\u0901\u0917\u094b "
     },
     {
+        "English": "farmer",
+        "German": "Landwirt",
+        "NepalBhasa": "\u091c\u094d\u092f\u093e\u092a\u0941",
+        "Nepali": "\u0915\u093f\u0938\u093e\u0928"
+    },
+    {
+        "English": "farming",
+        "German": "Landwirtschaft",
+        "NepalBhasa": "\u091c\u094d\u092f\u093e\u092a\u0941\u091c\u094d\u092f\u093e ",
+        "Nepali": "\u0916\u0947\u0924\u0940"
+    },
+    {
         "English": "fate",
         "German": "Schicksal",
         "NepalBhasa": "\u092d\u093e\u0917\u0947",
@@ -328,6 +352,12 @@
         "German": "Festival",
         "NepalBhasa": "\u0928\u0916:",
         "Nepali": "\u092e\u0939\u094b\u0924\u094d\u0938\u0935"
+    },
+    {
+        "English": "festival",
+        "German": "Festspiele",
+        "NepalBhasa": "\u091c\u093e\u0924\u094d\u0930\u093e",
+        "Nepali": "\u0909\u0924\u094d\u0938\u0935"
     },
     {
         "English": "fight",
@@ -456,6 +486,12 @@
         "Nepali": "\u092e\u0926\u094d\u0926\u0924"
     },
     {
+        "English": "horoscope",
+        "German": "Horoskop",
+        "NepalBhasa": "\u091c\u093e\u0924:",
+        "Nepali": "\u0930\u093e\u0936\u093f\u092b\u0932"
+    },
+    {
         "English": "house",
         "German": "haus",
         "NepalBhasa": "\u091b\u0947\u0901",
@@ -504,6 +540,18 @@
         "Nepali": "\u092d\u093f\u0924\u094d\u0930 "
     },
     {
+        "English": "jail",
+        "German": "Gef\u00e4ngnis",
+        "NepalBhasa": "\u091c\u0947\u0932",
+        "Nepali": "\u091c\u0947\u0932"
+    },
+    {
+        "English": "job",
+        "German": "Arbeit",
+        "NepalBhasa": "\u091c\u093e\u0917\u093f\u0930",
+        "Nepali": "\u091c\u093e\u0917\u093f\u0930"
+    },
+    {
         "English": "just",
         "German": "nur",
         "NepalBhasa": "\u091c\u0915",
@@ -514,6 +562,12 @@
         "German": "Schl\u00fcssel",
         "NepalBhasa": "\u0924\u093e\u0903\u091a\u093e\u0903",
         "Nepali": "\u0938\u093e\u0901\u091a\u094b "
+    },
+    {
+        "English": "king",
+        "German": "K\u00f6nig",
+        "NepalBhasa": "\u091c\u0941\u091c\u0941",
+        "Nepali": "\u0930\u093e\u091c\u093e"
     },
     {
         "English": "knot",
@@ -576,6 +630,12 @@
         "Nepali": "\u0921\u0938\u0928\u093e"
     },
     {
+        "English": "me",
+        "German": "Ich",
+        "NepalBhasa": "\u091c\u093f\u0924:",
+        "Nepali": "\u092e"
+    },
+    {
         "English": "meat",
         "German": "fleisch",
         "NepalBhasa": "\u0932\u093e",
@@ -628,6 +688,12 @@
         "German": "fr\u00e4ulein / frau",
         "NepalBhasa": "\u092e\u092f\u094d\u200c\u091c\u0941",
         "Nepali": "\u0938\u0941\u0936\u094d\u0930\u0940 "
+    },
+    {
+        "English": "murderer",
+        "German": "M\u00f6rder",
+        "NepalBhasa": "\u091c\u094d\u092f\u093e\u0928\u092e\u093e\u0930\u093e",
+        "Nepali": "\u0939\u0924\u094d\u092f\u093e\u0930\u093e"
     },
     {
         "English": "nearer",
@@ -714,6 +780,12 @@
         "Nepali": "\u0928\u0940\u0924\u093f"
     },
     {
+        "English": "pot",
+        "German": "Topf",
+        "NepalBhasa": "\u0925\u0932",
+        "Nepali": "\u092d\u093e\u0901\u0921\u094b"
+    },
+    {
         "English": "quantity",
         "German": "menge",
         "NepalBhasa": "\u0932\u093f",
@@ -748,6 +820,12 @@
         "German": "resolution",
         "NepalBhasa": "\u092b\u094d\u092f\u093e\u0928\u093e",
         "Nepali": "\u0938\u0902\u0915\u0932\u094d\u092a "
+    },
+    {
+        "English": "rice",
+        "German": "Reis",
+        "NepalBhasa": "\u091c\u093e\u0915\u093f",
+        "Nepali": "\u091a\u093e\u092e\u0932"
     },
     {
         "English": "river",
@@ -840,6 +918,12 @@
         "Nepali": "\u092e\u093e\u091f\u094b "
     },
     {
+        "English": "son in law",
+        "German": "Schwiegersohn",
+        "NepalBhasa": "\u091c\u093f\u0932\u093e\u091c\u0902",
+        "Nepali": "\u091c\u094d\u0935\u093e\u0908"
+    },
+    {
         "English": "stain / contamination",
         "German": "Verunreinigung",
         "NepalBhasa": "\u092d\u094d\u092f\u093e",
@@ -889,7 +973,7 @@
     },
     {
         "English": "the most",
-        "German": "die meisten",
+        "German": "Die meisten",
         "NepalBhasa": "\u0926\u0915\u0932\u092f\u094d",
         "Nepali": "\u0938\u092c\u092d\u0928\u094d\u0926\u093e "
     },
@@ -904,6 +988,12 @@
         "German": "zu sp\u00e4t kommen",
         "NepalBhasa": "\u0932\u093f\u092c\u093e\u0915",
         "Nepali": "\u0922\u093f\u0932\u093e \u0939\u0941\u0928\u0941"
+    },
+    {
+        "English": "to be reluctant",
+        "German": "Z\u00f6gernd sein",
+        "NepalBhasa": "\u0925\u093e\u0915\u0941\u091a\u093e\u092f\u0947",
+        "Nepali": "\u0905\u0928\u093f\u091a\u094d\u091b\u0941\u0915 \u0939\u0941\u0928\u0941"
     },
     {
         "English": "to become better or nicer",
